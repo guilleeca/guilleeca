@@ -1,48 +1,48 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/header.svg" width="100%" alt="Guillermo Caminero Araus · Data Engineer" />
+  <img src="assets/header.svg" width="100%" alt="Guillermo Caminero Araus · Data Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guillermo-caminero-araus/"><img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/guillermo-caminero-araus/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=camineroarausguillermo@gmail.com"><img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/btn-email.svg" height="52" alt="Email" /></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=camineroarausguillermo@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email" /></a>
   &nbsp;
-  <a href="https://github.com/guilleeca?tab=repositories"><img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/btn-repos.svg" height="52" alt="Proyectos" /></a>
+  <a href="https://github.com/guilleeca?tab=repositories"><img src="assets/btn-repos.svg" height="52" alt="Proyectos" /></a>
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/title-about.svg" width="100%" alt="Sobre mí" />
+<img src="assets/title-about.svg" width="100%" alt="Sobre mí" />
 
-<img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/about.svg" width="100%" alt="Soy Guillermo, estudiante de Ciencia de Datos e Ingeniería en la UPM." />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/title-stack.svg" width="100%" alt="Stack" />
-
-<img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/stack.svg" width="100%" alt="Python, SQL, Scala, JavaScript, Spark, Kafka, Airflow, PostgreSQL, MongoDB, Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, Docker, Git, Linux, Jupyter" />
+<img src="assets/about.svg" width="100%" alt="Soy Guillermo, estudiante de Ciencia de Datos e Ingeniería en la UPM." />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/title-projects.svg" width="100%" alt="Proyectos" />
+<img src="assets/title-stack.svg" width="100%" alt="Stack" />
 
-<a href="https://github.com/guilleeca/Flight-Delay-Streaming-Pipeline"><img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/project-flight.svg" width="100%" alt="Flight Delay Streaming Pipeline" /></a>
-
-<a href="https://github.com/guilleeca/Traduccion-Imagenes-Satelitales"><img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/project-sat.svg" width="100%" alt="Traducción de Imágenes Satelitales" /></a>
-
-<a href="https://github.com/guilleeca/Hybrid"><img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/project-hybrid.svg" width="100%" alt="Hybrid" /></a>
+<img src="assets/stack.svg" width="100%" alt="Python, SQL, Scala, JavaScript, Spark, Kafka, Airflow, PostgreSQL, MongoDB, Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, Docker, Git, Linux, Jupyter" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/title-activity.svg" width="100%" alt="Actividad" />
+<img src="assets/title-projects.svg" width="100%" alt="Proyectos" />
+
+<a href="https://github.com/guilleeca/Flight-Delay-Streaming-Pipeline"><img src="assets/project-flight.svg" width="100%" alt="Flight Delay Streaming Pipeline" /></a>
+
+<a href="https://github.com/guilleeca/Traduccion-Imagenes-Satelitales"><img src="assets/project-sat.svg" width="100%" alt="Traducción de Imágenes Satelitales" /></a>
+
+<a href="https://github.com/guilleeca/Hybrid"><img src="assets/project-hybrid.svg" width="100%" alt="Hybrid" /></a>
+
+<br/><br/>
+
+<img src="assets/title-activity.svg" width="100%" alt="Actividad" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/stats.svg" width="49%" alt="Estadísticas de GitHub" />
-  <img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/langs.svg" width="49%" alt="Lenguajes más usados" />
+  <img src="assets/stats.svg" width="49%" alt="Estadísticas de GitHub" />
+  <img src="assets/langs.svg" width="49%" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/activity.svg" width="100%" alt="Contribuciones del último año" />
+  <img src="assets/activity.svg" width="100%" alt="Contribuciones del último año" />
 </p>
 
-<img src="https://raw.githubusercontent.com/guilleeca/guilleeca.github.io/main/assets/footer.svg" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
