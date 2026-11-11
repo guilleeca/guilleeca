@@ -9,7 +9,7 @@
 <text x="48" y="64" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#38BDF8" letter-spacing="3">◆ DATA ENGINEER · BIG DATA · ML</text>
 <text x="46" y="128" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" fill="#E6EDF7">Guillermo</text>
 <text x="46" y="182" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" fill="url(#g)">Caminero Araus</text>
-<text x="48" y="220" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="17" fill="#8BA3C7">Data Science &amp; Engineering student · UPM, Madrid</text>
+<text x="48" y="220" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="17" fill="#8BA3C7">Data Sistems &amp; Engineering student · UPM, Madrid</text>
 <g clip-path="url(#type)"><text x="48" y="258" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#3B82F6">&gt; Transformando datos en decisiones</text></g>
 <rect x="48" y="244" width="9" height="18" fill="#38BDF8"><animate attributeName="x" values="48;380;380;48" keyTimes="0;.45;.9;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 <line x1="700" y1="52" x2="700" y2="238" stroke="#1E3A5F" stroke-width="2"/><line x1="700" y1="52" x2="700" y2="238" stroke="url(#g)" stroke-width="2" stroke-dasharray="6 10"><animate attributeName="stroke-dashoffset" from="32" to="0" dur="1.2s" repeatCount="indefinite"/></line><rect x="638" y="35" width="124" height="34" rx="8" fill="#0F1D36" stroke="#3B82F6" stroke-width="1.5"/>
